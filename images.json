@@ -1,0 +1,76 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "name": "gradient-sky",
+      "image": "/gradient.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 2,
+      "name": "bike",
+      "image": "/bike.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 3,
+      "name": "dog",
+      "image": "/dog.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 4,
+      "name": "keyboard",
+      "image": "/keyboard.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 5,
+      "name": "line",
+      "image": "/line.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 6,
+      "name": "mountain",
+      "image": "/mountain.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 7,
+      "name": "sandwich",
+      "image": "/sandwich.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 8,
+      "name": "squirrell",
+      "image": "/squirrell.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 9,
+      "name": "summit",
+      "image": "/summit.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 10,
+      "name": "tower",
+      "image": "/tower.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 11,
+      "name": "water",
+      "image": "/water.jpg",
+      "description": "lorem"
+    },
+    {
+      "id": 12,
+      "name": "storm",
+      "image": "/storm.gif",
+      "description": "lorem"
+    }
+  ]
+}

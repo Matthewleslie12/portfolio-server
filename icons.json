@@ -1,0 +1,54 @@
+{
+  "icons": [
+    {
+      "id": 1,
+      "name": "React",
+      "icon": "/react.png"
+    },
+    {
+      "id": 2,
+      "name": "Javascript",
+      "icon": "/js.png"
+    },
+    {
+      "id": 3,
+      "name": "Tailwind",
+      "icon": "/tailwind-css.svg"
+    },
+    {
+      "id": 4,
+      "name": "HTML",
+      "icon": "/html.png"
+    },
+    {
+      "id": 5,
+      "name": "CSS",
+      "icon": "/css-3.png"
+    },
+    {
+      "id": 6,
+      "name": "SASS",
+      "icon": "/sass.png"
+    },
+    {
+      "id": 7,
+      "name": "Node.js",
+      "icon": "/nodejs.png"
+    },
+    {
+      "id": 8,
+      "name": "Express.js",
+      "icon": "/express-js-icon.png"
+    },
+    {
+      "id": 9,
+      "name": "MySQL",
+      "icon": "/mysql.png"
+    },
+    {
+      "id": 10,
+      "name": "Firebase",
+      "icon": "/icons8-firebase-48.png"
+    }
+  ]
+}
