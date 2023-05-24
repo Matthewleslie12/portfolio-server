@@ -3,23 +3,28 @@
     {
       "id": 1,
       "name": "Portfolio",
-      "image": "/test.png",
+      "image": "/portfolio-lg.png",
       "description": "Built a portfolio page using React and Tailwind in the front end, created a Node server to host images, descriptions and other information, this should increase performance and also allow for easier updates when I create more projects, or just wish to change various images and icons on the page. I decided to use Tailwind since it was relatively new to me and it looked enjoyable- it was!",
-      "URL": "https://youtube.com"
+      "URL": "https://matthew-leslie.com",
+      "Github": "https://github.com/Matthewleslie12/portfolio",
+      "icons": ["react", "tailwind", "node"]
     },
     {
       "id": 2,
       "name": "Cleaner CRA",
-      "image": "/test.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-      "URL": "https://google.com"
+      "image": "/cra.png",
+      "description": "Cleaner-Create-React-App is a script that removes unnecessary files that are generated when creating a React app using create-react-app. To achieve this I used Node.js.",
+      "URL": "https://www.npmjs.com/package/cleaner-create-react-app?activeTab=code",
+      "Github": "https://github.com/Matthewleslie12/clean-create-react-app",
+      "icons": ["node", "express"]
     },
     {
       "id": 3,
       "name": "The Score Industry Project",
-      "image": "/test.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
-      "URL": "https://google.com"
+      "image": "/score.png",
+      "description": "TheScore introduced an intriguing challenge space, where diverse groups comprising Software Engineers, UX/UI designers, and Data Scientists collaborated to devise innovative solutions. With a limited timeframe of 24 hours, our goal was to create a compelling solution tailored to enhance user engagement and retention for the 'bet' feature within TheScore's mobile app. Our solution was to add a 'demo' to help users learn what betting is, the risks involved, and allow them to place a practice bet.",
+      "Github": "https://github.com/ngkao/industry-project",
+      "icons": ["react", "sass", "figma"]
     }
   ]
 }

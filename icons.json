@@ -44,11 +44,6 @@
       "id": 9,
       "name": "MySQL",
       "icon": "/mysql.png"
-    },
-    {
-      "id": 10,
-      "name": "Firebase",
-      "icon": "/icons8-firebase-48.png"
     }
   ]
 }
