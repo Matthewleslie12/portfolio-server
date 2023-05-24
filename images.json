@@ -4,73 +4,73 @@
       "id": 1,
       "name": "gradient-sky",
       "image": "/gradient.jpg",
-      "description": "lorem"
+      "description": "Can I get this gradient with CSS?"
     },
     {
       "id": 2,
       "name": "bike",
       "image": "/bike.jpg",
-      "description": "lorem"
+      "description": "Stanley Park, Vancouver, BC."
     },
     {
       "id": 3,
       "name": "dog",
       "image": "/dog.jpg",
-      "description": "lorem"
+      "description": "Good boy having a treat."
     },
     {
       "id": 4,
       "name": "keyboard",
       "image": "/keyboard.jpg",
-      "description": "lorem"
+      "description": "One of the keyboards I have built."
     },
     {
       "id": 5,
       "name": "line",
       "image": "/line.jpg",
-      "description": "lorem"
+      "description": "Somewhere in the woods, Vancouver, BC."
     },
     {
       "id": 6,
       "name": "mountain",
       "image": "/mountain.jpg",
-      "description": "lorem"
+      "description": "Squamish mountain, BC."
     },
     {
       "id": 7,
       "name": "sandwich",
       "image": "/sandwich.jpg",
-      "description": "lorem"
+      "description": "A quick sandwich break!"
     },
     {
       "id": 8,
       "name": "squirrell",
       "image": "/squirrell.jpg",
-      "description": "lorem"
+      "description": "Quick snack break"
     },
     {
       "id": 9,
       "name": "summit",
       "image": "/summit.jpg",
-      "description": "lorem"
+      "description": "Beautiful but terrifying when it's raining and windy."
     },
     {
       "id": 10,
       "name": "tower",
       "image": "/tower.jpg",
-      "description": "lorem"
+      "description": "Foggy day in a summer camp makes for great images."
     },
     {
       "id": 11,
       "name": "water",
       "image": "/water.jpg",
-      "description": "lorem"
+      "description": "Lynn Canyon, BC"
     },
     {
       "id": 12,
       "name": "storm",
       "image": "/storm.gif",
-      "description": "lorem"
+      "description": "Peaceful evening with a storm passing by to say hello."
     }
   ]
 }
