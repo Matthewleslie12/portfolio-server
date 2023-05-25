@@ -23,7 +23,7 @@
       "name": "The Score Industry Project",
       "image": "/score.png",
       "description": "TheScore introduced an intriguing challenge space, where diverse groups comprising Software Engineers, UX/UI designers, and Data Scientists collaborated to devise innovative solutions. With a limited timeframe of 24 hours, our goal was to create a compelling solution tailored to enhance user engagement and retention for the 'bet' feature within TheScore's mobile app. Our solution was to add a 'demo' to help users learn what betting is, the risks involved, and allow them to place a practice bet.",
-      "Github": "https://github.com/ngkao/industry-project",
+
       "icons": ["react", "sass", "figma"]
     }
   ]
