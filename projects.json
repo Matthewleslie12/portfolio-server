@@ -7,7 +7,7 @@
       "description": "Built a portfolio page using React and Tailwind in the front end, created a Node server to host images, descriptions and other information, this should increase performance and also allow for easier updates when I create more projects, or just wish to change various images and icons on the page. I decided to use Tailwind since it was relatively new to me and it looked enjoyable- it was!",
       "URL": "https://matthew-leslie.com",
       "Github": "https://github.com/Matthewleslie12/portfolio",
-      "icons": ["react", "tailwind", "node"]
+      "icons": ["react", "tailwind", "node", "express"]
     },
     {
       "id": 2,
